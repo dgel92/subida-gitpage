@@ -595,7 +595,6 @@ header nav .menu li:hover {
           align-items: flex-start;
   -ms-flex-line-pack: center;
       align-content: center;
-  border: 2px solid red;
   margin-top: 1em;
   max-width: 100%;
   height: 80vh;
@@ -610,7 +609,6 @@ header nav .menu li:hover {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border: 2px solid red;
   margin-top: 1em;
   width: 80%;
   font-size: 2rem;
@@ -626,7 +624,6 @@ header nav .menu li:hover {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border: 2px solid red;
   margin-top: 1em;
   padding: 0 1em;
   width: 100%;
@@ -643,7 +640,6 @@ header nav .menu li:hover {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border: 2px solid red;
   margin-top: .5em;
   padding: 0 .5em;
   width: 100%;
@@ -660,7 +656,6 @@ header nav .menu li:hover {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  border: 2px solid red;
   margin-top: .5em;
   padding: 0 1em;
   width: 100%;
@@ -714,7 +709,6 @@ header nav .menu li:hover {
     max-width: 100%;
     height: 80%;
     justify-items: center;
-    border: 2px solid red;
   }
   .contact_address {
     -webkit-box-orient: horizontal;
@@ -724,7 +718,6 @@ header nav .menu li:hover {
     width: 40%;
     margin: 4rem 2rem;
     font-size: 3rem;
-    border: 2px solid blue;
   }
   .contact .contact_banner {
     -webkit-box-orient: horizontal;
@@ -735,7 +728,6 @@ header nav .menu li:hover {
     max-width: 100%;
     width: 50%;
     font-size: 2rem;
-    border: 2px solid green;
   }
   .icon_social {
     -webkit-box-align: start;
