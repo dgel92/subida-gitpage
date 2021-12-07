@@ -1,0 +1,11 @@
+.banner {
+    position: relative;
+    height: calc(100vh - 187px);
+    
+
+    &_bg{
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+    }
+    }
