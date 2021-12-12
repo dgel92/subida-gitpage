@@ -150,8 +150,9 @@ img, video {
 }
 
 .icon {
-  margin-top: 1em;
-  margin-bottom: 1em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background: rgba(219, 219, 219, 0.274);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -166,10 +167,6 @@ img, video {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-}
-
-footer {
-  background-color: rgba(219, 219, 219, 0.274);
 }
 
 .brand {
@@ -216,7 +213,7 @@ header nav {
   right: 0;
   width: 55%;
   height: 100vh;
-  background: rgba(219, 219, 219, 0.274);
+  background: white;
   z-index: 1;
   display: none;
 }
@@ -338,9 +335,12 @@ header nav .menu li:hover {
           align-items: center;
   gap: 40px;
   padding: 3em 5%;
-  background: rgba(219, 219, 219, 0.274);
   -ms-flex-line-pack: center;
       align-content: center;
+}
+
+section {
+  background: rgba(219, 219, 219, 0.274);
 }
 
 .ph {
@@ -394,7 +394,6 @@ header nav .menu li:hover {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: rgba(219, 219, 219, 0.274);
   text-align: center;
 }
 
@@ -403,6 +402,7 @@ header nav .menu li:hover {
   color: white;
   display: inline-block;
   justify-items: center;
+  margin-bottom: 2rem;
   font-size: 2rem;
   width: 200px;
   height: auto;

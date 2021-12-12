@@ -3,9 +3,12 @@
     flex-direction: column;
     align-items: center;
     gap: 40px;
-    padding: 3em 5% ;
-    background: $clr-fondo;
+    padding: 3em 5%;
     align-content: center;
+}
+
+section{
+    background:$clr-fondo;
 }
 
 .ph{
@@ -50,7 +53,6 @@
     display:flex;
     width: 100%;
     justify-content: center;
-    background: $clr-fondo;
     text-align: center;
     
 
@@ -61,6 +63,7 @@
     color: white;
     display: inline-block;
     justify-items: center;
+    margin-bottom: 2rem;
     font-size: 2rem;
     width: 200px;
     height: auto;
