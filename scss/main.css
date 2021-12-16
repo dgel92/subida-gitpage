@@ -15,10 +15,6 @@ img, video {
   height: auto;
 }
 
-img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
-  display: none;
-}
-
 .banner_about {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -86,6 +82,10 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
       -ms-flex-align: center;
           align-items: center;
   margin-bottom: 2em;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+  display: none;
 }
 
 @media (min-width: 800px) {
@@ -177,6 +177,10 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
           align-items: center;
 }
 
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+  display: none;
+}
+
 .brand {
   font-family: "Be Vietnam", sans-serif;
   font-size: 1rem;
@@ -262,6 +266,10 @@ header nav .menu li:hover {
   text-underline-offset: 5px;
 }
 
+header nav img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+  display: none;
+}
+
 @media (min-width: 750px) {
   header .brand {
     font-size: .9rem;
@@ -328,6 +336,10 @@ header nav .menu li:hover {
      object-fit: cover;
   height: 100%;
   width: 100%;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+  display: none;
 }
 
 .wrapper {
@@ -414,6 +426,10 @@ section {
   font-size: 2rem;
   width: 200px;
   height: auto;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+  display: none;
 }
 
 @media (min-width: 750px) {
@@ -523,6 +539,10 @@ section {
       -ms-flex-align: center;
           align-items: center;
   margin-bottom: 2em;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+  display: none;
 }
 
 @media (min-width: 800px) {
@@ -694,6 +714,10 @@ section {
   font-weight: 500;
   padding-top: 0.2em;
   text-decoration: underline;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+  display: none;
 }
 
 @media (min-width: 780px) {
